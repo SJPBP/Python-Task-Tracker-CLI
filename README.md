@@ -1,1 +1,1 @@
-# -Python-Task-Tracker-CLI
+# Python-Task-Tracker-CLI
